@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("2 NDE COMMMIT")
+
+        today is a good day
     }
 }
