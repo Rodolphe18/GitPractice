@@ -10,6 +10,9 @@ class MainActivity : AppCompatActivity() {
 
         println("2 NDE COMMMIT")
 
-        println("4TH COMMIT")
+        today is a good day
+
+
+        hggjgkjgkghkhjhgkjhjhk
     }
 }
